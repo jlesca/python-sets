@@ -7,4 +7,4 @@ It is a collection which is unordered, unchangeable, and unindexed.
 They've to written with {curly bracket}.
 
 1.  [Creating Sets](creating-sets.py)
-2.  [Access Sets](acess-sets.py)
+2.  [Access Sets](access-sets.py)
