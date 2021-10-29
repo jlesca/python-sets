@@ -26,6 +26,8 @@ print('CHECK IF EXIST BLACK') # Muestro título.
 colors = {'red','green','blue', 'yellow', 'black', 'white'} # Creo la var y sus items.
 if 'black' in colors: # Si black existe en la var, que haga lo siguiente:
   print('Yes, Black exist in the set') # Muestre este mensaje.
+
   
+# Una vez creado un set, no podemos cambiar sus items, pero podemos agregarle.
 
 
