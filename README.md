@@ -10,3 +10,4 @@ They've to written with {curly bracket}.
 2.  [Access Sets](access-sets.py)
 3.  [Add Items](add-items.py)
 4.  [Remove Items](remove-items.py)
+5.  [Loop Sets](loop-sets.py)
