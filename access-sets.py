@@ -1,12 +1,12 @@
 # # ACCEDER A UN SET
-# Los sets en Python no se pueden ordenar los elementos ni idexarlos por su posición.,
+# En un set en Python no se pueden ordenar los elementos ni idexarlos por su posición.,
 # No podremos acceder a ellos mediante una posición específica.
 
 print('ACCESS SET ITEMS') # Muestro título.
 colors = {'red', 'green', 'blue'} # Creo la variable con sus items.
-print(colors[1]) # Muestro la posición 1, pero esto dará un error.
+print(colors[1]) # Muestro la posición 1, pero esto dará un error. 
 
-# Tampoco podemos encontrar los items por su posición negativa. 
+# Tampoco podemos encontrar los items por su posición negativa. print(colors[-1])
 
 
 # RANGO DE ITEMS EN UN SET
@@ -28,6 +28,6 @@ if 'black' in colors: # Si black existe en la var, que haga lo siguiente:
   print('Yes, Black exist in the set') # Muestre este mensaje.
 
   
-# Una vez creado un set, no podemos cambiar sus items, pero podemos agregarle.
+# Una vez creado un set, no podemos cambiar sus items, pero podemos agregarle uno o más.
 
 
