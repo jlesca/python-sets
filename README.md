@@ -12,4 +12,4 @@ They've to written with {curly bracket}.
 4.  [Remove Items](remove-items.py)
 5.  [Loop Sets](loop-sets.py)
 6.  [Join Sets](join-sets.py)
-7.  [Methods Sets](methods-sets.md)
+7.  [Sets Methods](methods-sets.md)
